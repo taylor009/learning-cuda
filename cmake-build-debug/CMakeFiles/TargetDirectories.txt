@@ -1,3 +1,0 @@
-/home/taylor/learning/cuda/learning-cuda/cmake-build-debug/CMakeFiles/learning_cuda.dir
-/home/taylor/learning/cuda/learning-cuda/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/taylor/learning/cuda/learning-cuda/cmake-build-debug/CMakeFiles/rebuild_cache.dir

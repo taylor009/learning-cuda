@@ -1,4 +1,0 @@
-ToolSet: 1.0 (local)Ninja: 1.12.0@/home/taylor/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja
-Options: 
-
-Options:-DCMAKE_MAKE_PROGRAM=/home/taylor/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja
