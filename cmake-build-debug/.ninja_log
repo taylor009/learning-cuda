@@ -1,0 +1,7 @@
+# ninja log v6
+1	1296	1720643927209916928	CMakeFiles/learning_cuda.dir/main.cu.o	3b80fa7b4faae085
+2	828	1720653141015425936	CMakeFiles/learning_cuda.dir/addition.cu.o	e49a9c068973abcd
+828	909	1720653141839415357	CMakeFiles/learning_cuda.dir/cmake_device_link.o	9256b96543a0d283
+909	973	1720653141919414331	learning_cuda	af41f711833e816a
+1	830	1720652440908402452	CMakeFiles/learning_cuda.dir/addition..cu.o	c3689077eb28a44c
+2	764	1720653141015425936	CMakeFiles/learning_cuda.dir/hello_world.cu.o	1d660af4f6fb17a6
